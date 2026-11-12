@@ -2,8 +2,8 @@
 
 **A node-based studio for building and testing a design system for industrial monitoring software.**
 
-[**▶ Open the live demo**](https://YOUR-USERNAME.github.io/factory-floor-ds-studio/)
-
+[**▶ Open the live demo**][(https://YOUR-USERNAME.github.io/factory-floor-ds-studio/)
+](https://ruplap.github.io/Design-System-Studio/) 
 <!-- Add a screenshot: save it as screenshot.png in this folder, then remove the comment marks below -->
 <!-- ![Factory Floor DS Studio — node canvas](screenshot.png) -->
 
